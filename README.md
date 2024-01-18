@@ -43,3 +43,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img width="723" alt="Screen Shot 2024-01-17 at 9 57 11 PM" src="https://github.com/TakiraMcCoy/post-install-config/assets/155402684/d5ae3fde-ba8b-4fbe-9cba-3eb564cc4f70">
 <img width="767" alt="Screen Shot 2024-01-17 at 9 44 31 PM" src="https://github.com/TakiraMcCoy/post-install-config/assets/155402684/685d3cd8-d40d-47b7-b0b0-6ee86a1b50b4">
 <img width="736" alt="Screen Shot 2024-01-17 at 9 45 45 PM" src="https://github.com/TakiraMcCoy/post-install-config/assets/155402684/0acc29e7-02df-4818-aeeb-7925c473cfc1">
+<img width="719" alt="Screen Shot 2024-01-17 at 10 15 30 PM" src="https://github.com/TakiraMcCoy/post-install-config/assets/155402684/bb1efb32-3753-4a62-8c09-0e726548c342">
+<img width="715" alt="Screen Shot 2024-01-17 at 10 16 13 PM" src="https://github.com/TakiraMcCoy/post-install-config/assets/155402684/ef7b5d11-370c-4711-82e1-a2a20c3398ff">
+
+<img width="484" alt="Screen Shot 2024-01-17 at 10 17 57 PM" src="https://github.com/TakiraMcCoy/post-install-config/assets/155402684/a35c286f-665a-4160-9461-2e2deaf5b704">
+<img width="724" alt="Screen Shot 2024-01-17 at 10 20 14 PM" src="https://github.com/TakiraMcCoy/post-install-config/assets/155402684/9129310b-1215-41bc-90f4-eaadcaec80a6">
+<img width="724" alt="Screen Shot 2024-01-17 at 10 21 45 PM" src="https://github.com/TakiraMcCoy/post-install-config/assets/155402684/f6a86966-c2fd-4bbc-9fbb-b61f6bac4491">
+
