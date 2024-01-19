@@ -112,6 +112,7 @@ Configure Teams
 
 Step 4:
 Configure agent:
+
 -Add new agent
 
 -Set password
